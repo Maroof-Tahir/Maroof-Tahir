@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maroof Tahir and I'm a Software Engineer, from Lahore, Pakistan</h2>
+<h2 align="left">Hi 👋! My name is Maroof Tahir and I'm a Data Engineer, I have multiple projects in AI/ML, python and much more</h2>
 
 ###
 
