@@ -7,9 +7,10 @@
   <img src="https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/api/top-langs?username=Maroof-Tahir&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" alt="languages graph" /> -->
 
   <img src="https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/api?username=Maroof-Tahir&show_icons=true&theme=dracula&hide_border=false" alt="languages graph"  />
- <!-- <img src="https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/api/top-langs?username=Maroof-Tahir&locale=en&hide_title=false&layout=compact&langs_count=6&theme=dracula&hide_border=false" alt="languages graph" />
+ 
+<img src="https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/api?username=Maroof-Tahir&amp;show_icons=true&amp;theme=dracula&amp;hide_border=false" alt="languages graph" />
 
-  <img src="https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/?user=maroof-tahir&theme=dracula&hide_border=false" alt="maroof-tahir" /> -->
+  <!--<img src="https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/?user=maroof-tahir&theme=dracula&hide_border=false" alt="maroof-tahir" /> -->
 </div>
 
 
