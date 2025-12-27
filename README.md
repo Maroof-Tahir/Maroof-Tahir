@@ -10,6 +10,9 @@
  
 <img src="https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/api?username=Maroof-Tahir&amp;show_icons=true&amp;theme=dracula&amp;hide_border=false" alt="languages graph" />
 
+![Languages graph](https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/api?username=Maroof-Tahir&show_icons=true&theme=dracula&hide_border=false)
+
+
   <!--<img src="https://github-readme-stats-git-master-maroof-tahirs-projects.vercel.app/?user=maroof-tahir&theme=dracula&hide_border=false" alt="maroof-tahir" /> -->
 </div>
 
